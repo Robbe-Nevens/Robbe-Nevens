@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Robbe Nevens 👋
 
-<!--
-**Robbe-Nevens/Robbe-Nevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a 19-year-old Computer Science student passionate about web development, open-source contributions, and creating meaningful projects. I'm currently working on various exciting projects in React and Java!
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (React), Java (Spring), Python, SQL
+- **Frameworks:** React, Node.js, Spring Boot
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, VSCode, Figma
+
+---
+
+I’m always excited to connect with fellow developers and collaborators. Let’s build something cool together! 🚀
