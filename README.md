@@ -1,6 +1,6 @@
 # Hi there, I'm Robbe Nevens 👋
 
-Welcome to my GitHub! I'm a 19-year-old Computer Science student passionate about web development, open-source contributions, and creating meaningful projects. I'm currently working on various exciting projects in React and Java!
+Welcome to my GitHub! I'm a 20-year-old Computer Science student passionate about web development, open-source contributions, and creating meaningful projects. I'm currently working on various exciting projects in React and Java!
 
 ## 🚀 Technologies & Tools
 
